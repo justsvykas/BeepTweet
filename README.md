@@ -3,8 +3,8 @@ This respisotory is based on a final project in Hands-on AI course in University
 
 ## Contents
   - [Brief presentation](#brief-presentation)
-  - NLP part(#nlp-part)
-  - Project report(#project-report)
+  - [NLP part](#nlp-part)
+  - [Project report](#project-report)
   
 ## Brief Presentation
 
