@@ -5,10 +5,10 @@ This folder has all the experiments carried out to find the best model to detect
 ## Contains
 
 - Linear_Ridge_regressions_experiments.ipynb <br>
-Here I show how I chose Ridge regression over Linear regression
+Here we show how we chose Ridge regression over Linear regression
 - NN_RNN_experiments.ipynb <br>
-Here I show my experiments with NN and RNN and calculate whether they are a good fit for the task
+Here we show my experiments with NN and RNN and calculate whether they are a good fit for the task
 - Dev_and_hypertuning.ipynb <br>
-Here I introduce Development split and then hyper tune this way finding best parameters for our model.
+Here we introduce Development split and then hyper tune this way finding best parameters for our model.
 - Combining_datasets.ipynb <br>
-Here I combine datasets while doing EDA on the way. Looking at pros/cons of combining datasets.
+Here we combine datasets while doing EDA on the way. Looking at pros/cons of combining datasets.
