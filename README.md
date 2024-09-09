@@ -30,7 +30,7 @@ Here we talk about how the model works and put emphasis on how we created it:
 
 ## Project report
 
-[Here](https://docs.google.com/document/d/1E99M2yAglkzC0Df-yQyZ60TfqmYaajrn/edit) you can find final project report where we talk more extensively about BeepTweet
+[Here](https://github.com/justsvykas/BeepTweet/blob/main/Project%20report.docx.pdf) you can find final project report where we talk more extensively about BeepTweet
 
 ## VAD values model
 
